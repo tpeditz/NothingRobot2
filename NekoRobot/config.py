@@ -13,9 +13,9 @@ class Config(object):
     API_ID = "6447873"
     API_HASH = ""
     TOKEN = ""
-    OWNER_ID = "5136853481"
-    OWNER_USERNAME = "Offline_into_100"
-    SUPPORT_CHAT = "CyberSupportGroup"
+    OWNER_ID = "5339377884"
+    OWNER_USERNAME = "Infinityuncounted01"
+    SUPPORT_CHAT = "NothingBots"
     JOIN_LOGGER = ()
     EVENT_LOGS = ()
 
