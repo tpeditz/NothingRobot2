@@ -502,7 +502,7 @@ And suing [SQlalchemy](https://www.sqlalchemy.org) and [Mongo](https://cloud.mon
   
    [𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁](https://GitHub.com)
    
-©2022-2023 @Cybermusicproject, All rights reserved.
+©2022-2023 @NothingBotz, All rights reserved.
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
