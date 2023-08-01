@@ -2,10 +2,10 @@
 <!--- B A N N E R   I M A G E --->
 
 <p align="center">
-  <img src="https://telegra.ph/file/0c5e970fb45e4f59e49d2.jpg">
+  <img src="https://te.legra.ph/file/bf2dbadaf9a4329cfae43.jpg">
 </p>
 
-# Neko Robot // @Neko_XRobot
+# Nᴏᴛʜɪɴɢ... Rᴏʙᴏᴛ// @NothingXRobot
 
 
 <!--- P Y T H O N   B A D G E --->
@@ -26,8 +26,8 @@
 
 <!--- T E L E G R A M   G R O U P   B A D G E --->
 
-[![Join Update](https://img.shields.io/badge/Update%20Channel-StrawHat%20Updates-blur)](https://t.me/CybersupportGroup)
-[![Join Support](https://img.shields.io/badge/Support%20Chat-StrawHat%20Team-red)](https://t.me/CyberMusicProject)
+[![Join Update](https://img.shields.io/badge/Update%20Channel-StrawHat%20Updates-blur)](https://t.me/NothingBots)
+[![Join Support](https://img.shields.io/badge/Support%20Chat-StrawHat%20Team-red)](https://t.me/NothingBotz)
 
 
 <!--- B O T   I N F O --->
@@ -36,9 +36,9 @@ A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 Originally a marie fork - Neko has evolved further and was built to be more useful for Anime Chats.
 
-Can be found on telegram as [Neko](https://t.me/Neko_XRobot).
+Can be found on telegram as [Neko](https://t.me/NothingXRobot).
 
-The Support group can be reached out to at [Cyber Support](https://t.me/CyberMusicProject), where you can ask for help setting up your bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available.
+The Support group can be reached out to at [ Support](https://t.me/NothingBots), where you can ask for help setting up your bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available.
 
 
 
@@ -46,7 +46,7 @@ The Support group can be reached out to at [Cyber Support](https://t.me/CyberMus
 
 ## ╔═━「 Creator Info 」
 
-+ [MOGAMBO](https://github.com/mogambo-Xd) : OWNER | DEV
++ [Nothing...](https://github.com/nothing022) : OWNER | DEV
 + [Mogambo](https://t.me/mogambo_odin) : SUDO
 
    <a href="https://t.me/CYBERMUSICPROJECT"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=320px></a>
@@ -72,7 +72,7 @@ This repo was just reamped to suit an Anime-centric community. All original cred
 
 The Easiest Way to Deploy This Bot is Via Heroku. In Order To deploy, You Just Have Fill The Necessary Environment Variables and Done!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MOGAMBO-XD/NekoRobot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nothing022/NothingRobot2)
 
 
 <details>
@@ -93,7 +93,7 @@ The Easiest Way to Deploy This Bot is Via Heroku. In Order To deploy, You Just H
 - Install pip by :
 `sudo pip3 install -U pip`
 - Clone the repository by :
-`git clone https://github.com/MOGAMBO-XD/NekoRobot && cd NekoRobot`
+`git clone https://github.com/nothing022/NothingRobot2 && cd NothingRobot`
 - Install/Upgrade setuptools by :
 `pip3 install --upgrade pip setuptools`
 - Install requirements by :
