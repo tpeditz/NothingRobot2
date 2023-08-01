@@ -133,10 +133,10 @@ def chatbot(update: Update, context: CallbackContext):
             return
         anon = message.text
         bot.send_chat_action(chat_id, action="typing")
-        url = f"https://api.safone.me/chatbot?query={message.text}&user_id={chat_id}&bot_name=Nothing_Robot&bot_master=Nothing}"
+        url = f"https://api.safone.me/chatbot?query={message.text}&user_id={chat_id}&bot_name=Test_bot&bot_master=Nothing}"
         request = requests.get(url)
         results = json.loads(request.text)
-        result = f"{results['reply']}"
+        result = f"{results['response']}"
         sleep(0.5)
         message.reply_text(result)
 
