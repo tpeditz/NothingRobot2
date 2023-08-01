@@ -1,7 +1,7 @@
 {
-      "name": "Neko Robot",
+      "name": "Nothing Robot",
       "description": "Telegram Group Management Bot.",
-      "logo": "https://i.imgur.com/cAz6eeY.jpg",
+      "logo": "https://te.legra.ph/file/ec08a28e5134ff4df78be.jpg",
       "keywords": [
          "telegram",
          "sexy",
@@ -9,7 +9,7 @@
          "manager",
          "Neko"
       ],   
-   "repository": "https://github.com/Mogambo-Xdl/NekoRobot",
+   "repository": "https://github.com/nothing022/NothingRobot2",
    "addons": [
       {
          "options": {
@@ -42,7 +42,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "5136853481"
+         "value": "5339377884"
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -54,12 +54,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "mogambo_odin"
+         "value": "Infinityuncounted01"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Straw Hat Support than consider you made an enemy.",
          "required": true,
-         "value": "CyberSupportGroup"
+         "value": "NothingBots"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -89,7 +89,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Strawhat Support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "5136853481"
+         "value": "5339377884"
       },
       "STRICT_GBAN": {
          "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
@@ -141,7 +141,7 @@
       "DONATION_LINK": {
          "description": "Link where you would like to receive donations. If you are a noob, better leave it linking to Mogambo",
          "required": false,
-         "value": "https://t.me/mogambo_odin"
+         "value": "No need"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
