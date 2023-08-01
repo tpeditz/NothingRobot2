@@ -136,7 +136,7 @@ def chatbot(update: Update, context: CallbackContext):
         url = f"https://kukiapi.xyz/api/apikey=1356469075-KUKIkq4WMg5FV4/Fallen/Anonymous/message={anon}"}"
         request = requests.get(url)
         results = json.loads(request.text)
-        
+        result = f"{results['reply']}"
         sleep(0.5)
         message.reply_text(results["response"])
 
