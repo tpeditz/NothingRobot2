@@ -101,11 +101,11 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="🤘 ᴀʙᴏᴜᴛ", callback_data="Neko_"),
-        InlineKeyboardButton(text="💪🇮🇳 ᴏᴡɴᴇʀ", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="✨Dᴇᴠᴇʟᴏᴘᴇʀ ✨", url=f"tg://user?id={OWNER_ID}"),
     ],
     [
-        InlineKeyboardButton(text="🦄 ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/CyberMusicProject"),
-        InlineKeyboardButton(text="🇮🇳 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="✨ ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/NothingBotz"),
+        InlineKeyboardButton(text="🏡 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
         InlineKeyboardButton(text="⚙️ ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"),
@@ -125,7 +125,7 @@ DONATE_STRING = """
 Hey babe,
 Happy to hear that you want to donate
 
-You can directly contact my [Developer](https://t.me/mogambo_odin) for donating or you can visit my [Support chat](https://t.me/CyberSupportGroup) and ask for donation.
+You can directly contact my [Developer](https://t.me/Infinityuncounted01) for donating or you can visit my [Support chat](https://t.me/NothingBots) and ask for donation.
 """
 
 IMPORTED = {}
@@ -238,7 +238,7 @@ def start(update: Update, context: CallbackContext):
         else:
             first_name = update.effective_user.first_name
             update.effective_message.reply_sticker(
-                "CAACAgUAAxkBAAED4i9knRVWtdtzTbSM7FhEjJTnNORcewACagsAAiMQyFStj95ITTbhjy8E"
+                "CAACAgEAAxkBAAM-ZMke-IbvUhFKpDaeg8C6KcDFS8cAAjcEAAL48lFEdPK8ulvs5ZkvBA"  
             )
             update.effective_message.reply_text(
                 PM_START_TEXT.format(
@@ -449,7 +449,7 @@ def Neko_about_callback(update: Update, context: CallbackContext):
                             text="sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/CyberMusicProject"
+                            text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/NothingBotz"
                         ),
                     ],
                     [
@@ -458,7 +458,7 @@ def Neko_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="ɢɪᴛʜᴜʙ",
-                            callback_data="https://github.com/Mogambo-Xd",
+                            callback_data="https://github.com",
                         ),
                     ],
                     [
@@ -500,7 +500,7 @@ Written in Python with the help of
 [Telethon](https://github.com/LonamiWebs/Telethon) • [Pyrogram](https://github.com/pyrogram/pyrogram) • [PTB](https://github.com/python-telegram-bot/python-telegram-bot)
 And suing [SQlalchemy](https://www.sqlalchemy.org) and [Mongo](https://cloud.mongodb.com) as Database.
   
-   [𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁](https://GitHub.com/MOGAMBO-XD/NekoRobot)
+   [𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁](https://GitHub.com)
    
 ©2022-2023 @Cybermusicproject, All rights reserved.
 """,
@@ -752,7 +752,7 @@ def donate(update: Update, context: CallbackContext):
 
         if OWNER_ID != 931530251 and DONATION_LINK:
             update.effective_message.reply_text(
-                f"» The developer of the {BOT_NAME} is [Saitama](https://t.me/SAlTAM4).",
+                f"» The developer of the {BOT_NAME} is [Saitama](https://t.me/Infinityuncounted01).",
                 parse_mode=ParseMode.MARKDOWN,
                 disable_web_page_preview=True,
             )
@@ -800,7 +800,7 @@ def main():
         try:
             dispatcher.bot.sendAnimation(
                 f"@{SUPPORT_CHAT}",
-                animation="https://telegra.ph/file/274ce314a6bfb50d10259.jpg",
+                animation="https://te.legra.ph/file/ec08a28e5134ff4df78be.jpg",
                 caption=f"""
 **{BOT_NAME} is alive baby**
 
