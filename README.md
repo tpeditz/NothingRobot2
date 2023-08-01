@@ -49,8 +49,8 @@ The Support group can be reached out to at [ Support](https://t.me/NothingBots),
 + [Nothing...](https://github.com/nothing022) : OWNER | DEV
 + [Mogambo](https://t.me/mogambo_odin) : SUDO
 
-   <a href="https://t.me/CYBERMUSICPROJECT"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=320px></a>
-   <a href="https://t.me/CYBERSupportgroup"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=320px></a>
+   <a href="https://t.me/NothingBotz"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=320px></a>
+   <a href="https://t.me/NothingBots"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=320px></a>
    
 
 
