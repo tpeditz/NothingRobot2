@@ -10,17 +10,17 @@ from NekoRobot import telethn as tbot
 from NekoRobot.events import register
 
 PHOTO = [
-    "https://telegra.ph/file/274ce314a6bfb50d10259.jpg",
+    "https://te.legra.ph/file/bf2dbadaf9a4329cfae43.jpg",
 ]
 
 
 @register(pattern=("/alive"))
 async def awake(event):
-    TEXT = f"**Hey [{event.sender.first_name}](tg://user?id={event.sender.id}), I am Neko Robot**\n\n➖➖➖➖➖➖➖➖➖➖➖\n\n"
-    TEXT += f"» **My Developer : [Mogambo](https://t.me/{OWNER_USERNAME})**\n"
+    TEXT = f"**Hey [{event.sender.first_name}](tg://user?id={event.sender.id}), I am Nothing Robot**\n\n➖➖➖➖➖➖➖➖➖➖➖\n\n"
+    TEXT += f"» **My Developer : [Nᴏᴛʜɪɴɢ...](https://t.me/Infinityuncounted01)**\n"
     TEXT += f"» **Library Version :** `{telever}` \n"
     TEXT += f"» **Telethon Version :** `{tlhver}` \n"
-    TEXT += f"» **Pyrogram Version :** `{pyrover}` \n\n➖➖➖➖➖➖➖➖➖➖➖\n\n**Powered by @CyberMusicProject**"
+    TEXT += f"» **Pyrogram Version :** `{pyrover}` \n\n➖➖➖➖➖➖➖➖➖➖➖\n\n**Powered by [NᴏᴛʜɪɴɢBᴏᴛs](https://t.me/NothingBotz)**"
     BUTTON = [
         [
             Button.url("ʜᴇʟᴘ​", f"https://t.me/{dispatcher.bot.username}?start=help"),
