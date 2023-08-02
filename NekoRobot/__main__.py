@@ -800,7 +800,7 @@ def main():
         try:
             dispatcher.bot.sendAnimation(
                 f"@{SUPPORT_CHAT}",
-                animation="https://te.legra.ph/file/ec08a28e5134ff4df78be.jpg",
+                animation="https://te.legra.ph/file/bf2dbadaf9a4329cfae43.jpg",
                 caption=f"""
 **{BOT_NAME} is alive baby**
 
