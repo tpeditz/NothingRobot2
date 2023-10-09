@@ -449,7 +449,7 @@ def Neko_about_callback(update: Update, context: CallbackContext):
                             text="sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/NothingBotz"
+                            text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/Idsp_bots"
                         ),
                     ],
                     [
@@ -502,7 +502,7 @@ And suing [SQlalchemy](https://www.sqlalchemy.org) and [Mongo](https://cloud.mon
   
    [𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁](https://GitHub.com)
    
-©2022-2023 @NothingBotz, All rights reserved.
+©2022-2023 @Idsp_bots, All rights reserved.
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -752,7 +752,7 @@ def donate(update: Update, context: CallbackContext):
 
         if OWNER_ID != 931530251 and DONATION_LINK:
             update.effective_message.reply_text(
-                f"» The developer of the {BOT_NAME} is [Saitama](https://t.me/Infinityuncounted01).",
+                f"» The developer of the {BOT_NAME} is [Tp_Editz](https://t.me/Idsp_bots).",
                 parse_mode=ParseMode.MARKDOWN,
                 disable_web_page_preview=True,
             )
