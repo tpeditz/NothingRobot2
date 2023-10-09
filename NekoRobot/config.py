@@ -10,10 +10,10 @@ def get_user_list(config, key):
 class Config(object):
     LOGGER = True
 
-    API_ID = "6447873"
+    API_ID = "22858364"
     API_HASH = ""
     TOKEN = ""
-    OWNER_ID = "5339377884"
+    OWNER_ID = "1666243723"
     OWNER_USERNAME = "@Tp_Editz"
     SUPPORT_CHAT = "Bots_talkk"
     JOIN_LOGGER = ()
