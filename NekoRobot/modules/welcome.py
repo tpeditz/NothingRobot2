@@ -9,7 +9,7 @@ from pyrogram.enums import *
 from NekoRobot import pbot
 
 #ADD ANY BUTTON YOU WANT BELOW YOUR WELCOME IMAGE
-markup=InlineKeyboardMarkup ([[InlineKeyboardButton ("Dᴇᴠ", url="https://t.me/Infinityuncounted01")]])
+markup=InlineKeyboardMarkup ([[InlineKeyboardButton ("Dᴇᴠ", url="https://t.me/Tp_Editz")]])
 
 @pbot.on_message(filters.new_chat_members & filters.group)
 async def welcomepic(_, message):
